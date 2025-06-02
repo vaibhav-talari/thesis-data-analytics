@@ -3,6 +3,7 @@
 
 #ignore dataset files
 data/
+images/
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
